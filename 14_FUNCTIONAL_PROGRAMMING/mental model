@@ -1,0 +1,31 @@
+# FUNCTIONAL PROGRAMMING
+#         │
+#         ├── Function as a value
+#         │
+#         ├── Lambda
+#         │
+#         ├── map()
+#         │      ↓
+#         │   Transform
+#         │
+#         ├── filter()
+#         │      ↓
+#         │   Select
+#         │
+#         ├── reduce()
+#         │      ↓
+#         │   Combine
+#         │
+#         ├── zip()
+#         │      ↓
+#         │   Combine iterables
+#         │
+#         ├── sorted(key=)
+#         │      ↓
+#         │   Custom sorting
+#         │
+#         ├── Higher-order functions
+#         │
+#         ├── Closures
+#         │
+#         └── Recursion
